@@ -170,10 +170,11 @@ const Header = () => {
         </>
       ) : (
         <>
-          <div>
+          <div style={{display:'flex' , flexDirection : 'column', alignItems:'center'}}>
             <img
-              src="https://www.scholarswing.in/resources/images/empty-cart.png"
+              src="https://sarivillafashion.com/img/images/listing-5/empty-cart.gif"
               alt="img"
+              width='8  0%'
             />
             <h3 className="empty-cart">Your Cart is Empty...</h3>
           </div>
