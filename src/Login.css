@@ -1,0 +1,19 @@
+.login-div{
+    /* margin-top: -2vw; */
+    padding: 5vw;
+    text-align: center;
+    background-color: rgb(183, 185, 187);
+    height: 50vw;
+}
+input{
+    padding: 1.5vw;
+    border:none;
+    outline : none;
+    background-color: rgb(247, 251, 255);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.para{
+    font-size: 2vw;
+    font-weight: bold;
+}
